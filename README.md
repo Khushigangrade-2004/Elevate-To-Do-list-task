@@ -20,8 +20,7 @@ VS Code – Development environment used for writing and testing code
 📁 How to Run the Project
 Clone the repository (or download the .py file):
 
-
-git clone https://github.com/your-username/todo-list-python.git
+(https://github.com/Khushigangrade-2004/Elevate-To-Do-list-task.git)
 Open the folder in Visual Studio Code
 
 python todo.py
